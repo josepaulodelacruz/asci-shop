@@ -1,4 +1,4 @@
-import { AppBar, Toolbar, IconButton, Button, Typography } from '@material-ui/core'
+import { AppBar, Toolbar } from '@material-ui/core'
 
 const NavBar = ({isShow}) => {
   return(
